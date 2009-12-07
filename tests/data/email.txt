@@ -1,0 +1,50 @@
+From matt@mattread.com  Sun Nov 29 07:07:38 2009
+Return-Path: <matt@mattread.com>
+X-Original-To: post@mattread.ca
+Delivered-To: post@mattread.ca
+Received: from mail-qy0-f187.google.com (mail-qy0-f187.google.com [209.85.221.187])
+	by nikita (Postfix) with ESMTP id E08754426C
+	for <post@mattread.ca>; Sun, 29 Nov 2009 07:07:37 +0000 (UTC)
+Received: by qyk17 with SMTP id 17so1151505qyk.2
+        for <post@mattread.ca>; Sat, 28 Nov 2009 23:07:37 -0800 (PST)
+Received: by 10.224.57.72 with SMTP id b8mr1418396qah.222.1259478455810;
+        Sat, 28 Nov 2009 23:07:35 -0800 (PST)
+Received: from ?192.168.0.20? ([204.237.33.212])
+        by mx.google.com with ESMTPS id 20sm2690421qyk.13.2009.11.28.23.07.35
+        (version=SSLv3 cipher=RC4-MD5);
+        Sat, 28 Nov 2009 23:07:35 -0800 (PST)
+Subject: test
+From: Matt Read <matt@mattread.com>
+To: post <post@mattread.ca>
+Content-Type: multipart/signed; micalg="pgp-sha1"; protocol="application/pgp-signature"; boundary="=-8b60R9QcL2nLR1J8qhCJ"
+Date: Sun, 29 Nov 2009 02:09:54 -0500
+Message-ID: <1259478594.4512.2.camel@elisa>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.1 
+
+
+--=-8b60R9QcL2nLR1J8qhCJ
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--=20
+Matt Read
+http://mattread.info
+http://mattread.com
+
+--=-8b60R9QcL2nLR1J8qhCJ
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: This is a digitally signed message part
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEABECAAYFAksSHkIACgkQ1ATSwAZ2zvl7XwCcDTrHYJS0f2pvqnfGDmLMH8FL
+VDAAnixnmvjxGFUb7JIlmBW8Qspmyu9Q
+=M74v
+-----END PGP SIGNATURE-----
+
+--=-8b60R9QcL2nLR1J8qhCJ--
+
